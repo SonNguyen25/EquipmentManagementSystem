@@ -6,6 +6,24 @@ This Java-based project aims to enhance the equipment loaning processes for the 
 - Streamlined equipment loaning processes for the Art Department
 - Front-end GUI designed using Java Swing for students
 - Database connectivity through Microsoft SQL Server Management Studio
+  
+### Student Features:
+
+- **Rental Screens:** Intuitive screens for students to view and request available equipment for loan.
+  
+- **Calendar Integration:** A calendar feature allowing students to choose loan dates conveniently.
+
+- **Loan History:** Detailed history of previous equipment loans for students to track their usage.
+
+- **Availability Indicator:** Real-time availability status of equipment to assist students in making informed choices.
+
+- **Email Reminders:** Automated email notifications sent to students as a reminder to return equipment on time, implemented using Java Mail API.
+
+### Teacher/Admin Features:
+
+- **Equipment Management:** Teachers can easily add or remove equipment from the system, ensuring an up-to-date inventory.
+
+- **Email Notifications:** Teachers can notify students via email, enhancing communication for important announcements and updates.
 
 ### Requirements
 - Java Development Kit (JDK)
